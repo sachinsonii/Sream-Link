@@ -87,10 +87,10 @@ Then visit `http://localhost:8000/streamlink.html`
 ┌─────────────┐                    ┌─────────────┐
 │   Sender    │                    │  Receiver   │
 │             │                    │             │
-│  ┌───────┐  │   Offer (Code)    │  ┌───────┐  │
+│  ┌───────┐  │   Offer (Code)     │  ┌───────┐  │
 │  │Screen │  │ ─────────────────> │  │       │  │
 │  │Capture│  │                    │  │       │  │
-│  └───────┘  │   Answer (Code)   │  └───────┘  │
+│  └───────┘  │   Answer (Code)    │  └───────┘  │
 │             │ <───────────────── │             │
 │  WebRTC     │                    │  WebRTC     │
 │  Peer       │ ══════════════════ │  Peer       │
