@@ -376,8 +376,13 @@ textarea::placeholder {
 
 .card.fullscreen .video-wrapper {
     aspect-ratio: auto;
-    height: calc(100vh - 68px);
+    height: calc(100vh);
 }
+
+.card.fullscreen .card-header {
+       display: none;
+   }
+
 
 /* Responsive */
 @media (max-width: 1024px) {
