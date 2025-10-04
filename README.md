@@ -21,7 +21,7 @@ A professional, fully static web application for peer-to-peer screen sharing wit
 ## 🚀 Quick Start
 
 ### Option 1: Direct Usage
-1. Demo: [StreamLink]([https://webrtc.org](https://sachinsonii.github.io/Sream-Link/)
+1. Demo: [StreamLink](https://sachinsonii.github.io/Sream-Link/)
 2. Open it in any modern browser (Chrome, Edge, Firefox, Safari)
 3. Done! No installation or setup required
 
